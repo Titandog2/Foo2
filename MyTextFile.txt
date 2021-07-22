@@ -1,1 +1,1 @@
-Esta es la primera prueba de la capacitación con GIT
+Esta es la primera prueba de la capacitación con GIT - se actualiza el archivo
